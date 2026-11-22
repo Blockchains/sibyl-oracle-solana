@@ -3,7 +3,7 @@ cluster = "devnet"
 wallet = "~/.config/solana/id.json"
 
 [programs.devnet]
-sibyl_oracle = "gVaLAXxsYPLdmJnzL5HyuA57jCrSvjv93Lprw8VGtfu"
+sibyl_oracle = "8CUnNyHh9q4rjEkoupDoezfYk2GsFvnzn84j7nrHEXeE"
 
 [scripts]
 test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"

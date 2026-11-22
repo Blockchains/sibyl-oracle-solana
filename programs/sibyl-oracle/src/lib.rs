@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("gVaLAXxsYPLdmJnzL5HyuA57jCrSvjv93Lprw8VGtfu");
+declare_id!("8CUnNyHh9q4rjEkoupDoezfYk2GsFvnzn84j7nrHEXeE");
 
 #[program]
 pub mod sibyl_oracle {
